@@ -1,12 +1,11 @@
 * {
-  font-family: "Caveat", cursive;
-  color: #fff;
   margin: 0;
   padding: 0;
-  transition: 0.8s linear;
+  color: #fff;
 }
 
 body {
+  font-family: "Caveat", cursive;
   height: 100%;
   width: 100%;
   background-color: #111;
