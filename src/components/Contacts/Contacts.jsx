@@ -8,7 +8,7 @@ function Contacts() {
       <ul className="contacts__items">
         <li className="contacts__item">
           <a
-            href="https://www.linkedin.com/in/olga-smirnova-6a1b9b246/"
+            href="src/components/Contacts/Contacts"
             target="_blank"
             rel="noreferrer"
           >

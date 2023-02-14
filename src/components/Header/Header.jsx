@@ -8,13 +8,13 @@ function Header() {
         <button className="nav__logo">GatArto</button>
         <ul className="nav__links">
           <li className="nav__link">
-            <a href="#work">Work</a>
+            <a href="src/components/Header/Header#work">Works</a>
           </li>
           <li className="nav__link">
-            <a href="#about">About</a>
+            <a href="src/components/Header/Header#about">About</a>
           </li>
           <li className="nav__link">
-            <a href="#contact">Contact</a>
+            <a href="src/components/Header/Header#contact">Contact</a>
           </li>
         </ul>
       </nav>

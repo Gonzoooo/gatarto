@@ -13,7 +13,7 @@ header {
 
 .nav__logo {
   font-family: "Pacifico", cursive;
-  font-size: calc(1em + 2vw);
+  font-size: calc(2em + 3vw);
   text-align: center;
   border: none;
   cursor: pointer;
@@ -57,8 +57,7 @@ header {
 }
 
 .nav__link {
-  font-weight: bold;
-  font-size: calc(1em + 2vw);
+  font-size: calc(2em + 3vw);
   text-align: center;
   padding: 1%;
 }
@@ -68,7 +67,7 @@ header {
 }
 
 .nav__link:hover {
-  font-size: calc(1.3em + 2vw);
+  font-size: calc(2.3em + 3vw);
   cursor: pointer;
   background: rgb(251, 63, 63);
   background: linear-gradient(

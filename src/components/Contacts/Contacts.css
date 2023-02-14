@@ -1,7 +1,27 @@
-.main__header {
-  font-weight: bold;
-  font-size: calc(1em + 4vw);
-  text-align: center;
+.contacts__header {
+  font-size: calc(2em + 4vw);
+  padding: 0 15vw 0 0;
+  text-align: right;
+}
+
+.contacts__items {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  list-style-type: none;
+  padding: 4% 0;
+}
+
+.contacts__item {
+  font-size: calc(2em + 3vw);
+  text-decoration: none;
+  padding: 1%;
+}
+
+.contacts__item:hover {
+  box-sizing: border-box;
+  font-size: calc(2.3em + 3vw);
   background: rgb(251, 63, 63);
   background: linear-gradient(
     90deg,
@@ -29,4 +49,8 @@
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+.contacts__item a {
+  text-decoration: none;
 }
