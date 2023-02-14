@@ -1,11 +1,10 @@
 .about__header {
-  font-size: calc(2em + 4vw);
+  font-size: calc(1em + 2vw);
   text-align: right;
-  padding: 0 15vw 0 0;
 }
 
 .about__text {
-  font-size: calc(2em + 3vw);
+  font-size: calc(1em + 2vw);
   text-align: center;
   padding: 4% 0;
 }

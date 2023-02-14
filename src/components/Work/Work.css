@@ -1,6 +1,5 @@
 .work__header {
-  font-size: calc(2em + 4vw);
-  padding: 0 15vw 0 0;
+  font-size: calc(1em + 2vw);
   text-align: right;
 }
 
@@ -10,7 +9,7 @@
   flex-wrap: wrap;
   list-style-type: none;
   gap: 0.5em;
-  padding: 4% 0;
+  padding: 1% 0;
 }
 
 .work__item {
@@ -30,10 +29,10 @@
 }
 
 .work__description {
+  font-size: calc(1em + 2vw);
   grid-column-start: 1;
   grid-row-start: 1;
   padding: 4%;
-  font-size: calc(1em + 4vw);
   text-align: left;
 }
 
