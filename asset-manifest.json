@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gatarto/static/css/main.da4d2052.css",
-    "main.js": "/gatarto/static/js/main.b5cbe6c6.js",
+    "main.css": "/gatarto/static/css/main.06bf2576.css",
+    "main.js": "/gatarto/static/js/main.1b718852.js",
     "static/media/beautySalon.png": "/gatarto/static/media/beautySalon.28cdeb3e6bb22d46d3f7.png",
     "static/media/pizza.png": "/gatarto/static/media/pizza.e51698ab7c0a40ed2936.png",
     "static/media/russiaTrip.png": "/gatarto/static/media/russiaTrip.5d53ef05bff2a0a9b50e.png",
@@ -13,11 +13,11 @@
     "static/media/designStudio.png": "/gatarto/static/media/designStudio.ba3573a4a8ff4b35409e.png",
     "static/media/toDo.png": "/gatarto/static/media/toDo.60806629a502c0caecb8.png",
     "index.html": "/gatarto/index.html",
-    "main.da4d2052.css.map": "/gatarto/static/css/main.da4d2052.css.map",
-    "main.b5cbe6c6.js.map": "/gatarto/static/js/main.b5cbe6c6.js.map"
+    "main.06bf2576.css.map": "/gatarto/static/css/main.06bf2576.css.map",
+    "main.1b718852.js.map": "/gatarto/static/js/main.1b718852.js.map"
   },
   "entrypoints": [
-    "static/css/main.da4d2052.css",
-    "static/js/main.b5cbe6c6.js"
+    "static/css/main.06bf2576.css",
+    "static/js/main.1b718852.js"
   ]
 }
