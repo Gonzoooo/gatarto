@@ -18,7 +18,6 @@
   grid-template-rows: 1fr;
   align-items: center;
   overflow: hidden;
-  width: 80%;
   padding: 4%;
   border-bottom: 1px solid #fff;
 }
@@ -58,4 +57,19 @@
 .work__image:hover {
   transition: 1s ease-in-out;
   filter: grayscale(0%);
+}
+
+@media (max-width: 500px) {
+  .work__item {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .work__description {
+    text-align: justify;
+  }
+
+  .work__item:nth-child(2n) .work__description{
+    text-align: justify;
+  }
 }
