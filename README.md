@@ -1,1 +1,1 @@
-## [My portfolio](https://gonzoooo.github.io/gatarto/)
+## [My portfolio](https://gatarto.com/)
