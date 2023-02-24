@@ -10,6 +10,7 @@ import russiaTripImg from "../../assets/img/russiaTrip.png";
 import howToLearnImg from "../../assets/img/howToLearn.png";
 import letterOneImg from "../../assets/img/letter1.png";
 import letterTwoImg from "../../assets/img/letter2.png";
+import taxiImg from "../../assets/img/taxi.png";
 
 function Work() {
   return (
@@ -27,6 +28,16 @@ function Work() {
             <img className="work__image" src={letterOneImg} alt="HTML letter" />
           </a>
           <p className="work__description">HTML-letter</p>
+        </li>
+        <li className="work__item">
+          <a className="work__link" href="http://cosmo-taxii.tilda.ws/">
+            <img
+              className="work__image"
+              src={taxiImg}
+              alt="Pic of the Taxi landing"
+            />
+          </a>
+          <p className="work__description">Landing on Tilda</p>
         </li>
         <li className="work__item">
           <a className="work__link" href="http://goo.yandex.tilda.ws/">
