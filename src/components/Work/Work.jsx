@@ -17,24 +17,12 @@ function Work() {
     <div className="work" id="work">
       <h2 className="work__header">works</h2>
       <ul className="work__items">
-        <li className="work__item">
-          <a className="work__link" href="https://gonzoooo.github.io/letter-2/">
-            <img className="work__image" src={letterTwoImg} alt="HTML letter" />
-          </a>
-          <p className="work__description">HTML-letter</p>
-        </li>
-        <li className="work__item">
-          <a className="work__link" href="https://gonzoooo.github.io/letter/">
-            <img className="work__image" src={letterOneImg} alt="HTML letter" />
-          </a>
-          <p className="work__description">HTML-letter</p>
-        </li>
-        <li className="work__item">
+      <li className="work__item">
           <a className="work__link" href="http://cosmo-taxii.tilda.ws/">
             <img
               className="work__image"
               src={taxiImg}
-              alt="Pic of the Taxi landing"
+              alt="Pic of the Taxi landing with animantion"
             />
           </a>
           <p className="work__description">Landing on Tilda</p>
@@ -48,6 +36,18 @@ function Work() {
             />
           </a>
           <p className="work__description">Landing on Tilda with slider</p>
+        </li>
+        <li className="work__item">
+          <a className="work__link" href="https://gonzoooo.github.io/letter-2/">
+            <img className="work__image" src={letterTwoImg} alt="HTML letter" />
+          </a>
+          <p className="work__description">HTML-letter</p>
+        </li>
+        <li className="work__item">
+          <a className="work__link" href="https://gonzoooo.github.io/letter/">
+            <img className="work__image" src={letterOneImg} alt="HTML letter" />
+          </a>
+          <p className="work__description">HTML-letter</p>
         </li>
         <li className="work__item">
           <a className="work__link" href="http://beautystudiio.tilda.ws/">
